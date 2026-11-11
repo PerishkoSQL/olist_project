@@ -10,6 +10,7 @@ Olist E-Commerce Analytics: Сквозной анализ данных
 - Python (Pandas, NumPy) для обработки данных и RFM-анализа.
 - Matplotlib, Seaborn для визуализации.
 
+![Дашборд с графиками](images/dashboard.png)
 
 Ключевые инсайты:
 
