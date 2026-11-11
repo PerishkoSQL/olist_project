@@ -39,7 +39,7 @@ Olist E-Commerce Analytics: Сквозной анализ данных
 Как запустить проект
 1. Импортируйте CSV-файлы Olist в базу данных PostgreSQL (база olist_db).
 2. Установите зависимости: pip install -r requirements.txt.
-3. Запустите скрипт: python olist_analysis.py.
+3. Запустите скрипт: python olist_final_project.py.
 
 
 Структура проекта
