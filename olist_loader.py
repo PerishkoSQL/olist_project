@@ -16,8 +16,8 @@ for filename in os.listdir(folder_path):
 
         table_name = filename.replace('.csv', '')
 
-        print(f"Загружаю {filename} в таблицу {table_name}...")
+        print(f"Загрузка {filename} в таблицу {table_name}...")
         df.to_sql(table_name, engine, if_exists='replace', index=False)
         print(f"Готово. Строк: {len(df)}")
 
-print('Все файлы загружены!')
+print('Файлы загружены')
